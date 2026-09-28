@@ -1,37 +1,37 @@
 <p align="center">
-  <img src="header-banner.svg" width="100%" alt="Hussain Haider" />
+  <a name="noop"><img src="header-banner.svg" width="100%" alt="Hussain Haider" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:8a4dff,100:e040fb&height=6" width="100%" alt="bar" />
+  <a name="noop"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:8a4dff,100:e040fb&height=6" width="100%" alt="bar" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00E5FF&background=020420FF&center=true&vCenter=true&width=900&height=56&lines=AI+Developer+%7C+ML+Engineer+%7C+Builder;PyTorch+%7C+Next.js+%7C+Claude+API;7%2B+Live+AI%2FWeb+Projects;Deep+Learning+%7C+Computer+Vision+%7C+NLP;BS+Artificial+Intelligence+%40+UMT+Lahore;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+  <a name="noop"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00E5FF&background=020420FF&center=true&vCenter=true&width=900&height=56&lines=AI+Developer+%7C+ML+Engineer+%7C+Builder;PyTorch+%7C+Next.js+%7C+Claude+API;7%2B+Live+AI%2FWeb+Projects;Deep+Learning+%7C+Computer+Vision+%7C+NLP;BS+Artificial+Intelligence+%40+UMT+Lahore;Open+to+Internships+%26+Collaborations" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="avatar.jpg" width="38%" alt="Hussain Haider" /><img src="info-panel.svg" width="61%" alt="Info Panel" />
+  <a name="noop"><img src="avatar.jpg" width="38%" alt="Hussain Haider" /></a><a name="noop"><img src="info-panel.svg" width="61%" alt="Info Panel" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e040fb,50:8a4dff,100:00e5ff&height=3" width="100%" alt="bar" />
+  <a name="noop"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:e040fb,50:8a4dff,100:00e5ff&height=3" width="100%" alt="bar" /></a>
 </p>
 
 <div align="center">
 
 [![linkedin](https://img.shields.io/badge/LINKEDIN-Hussain%20Haider-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020420)](https://www.linkedin.com/in/hussain-haider-012111301)
-[![email](https://img.shields.io/badge/EMAIL%20ME-8a4dff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020420)](mailto:hussainhaider0204@gmail.com)
+[![email](https://img.shields.io/badge/EMAIL%20ME-8a4dff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020420)](https://mail.google.com/mail/?view=cm&fs=1&to=hussainhaider0204@gmail.com&su=Hello%20Hussain)
 
-![skills](https://skillicons.dev/icons?i=python,pytorch,typescript,javascript,cpp,nextjs,fastapi,git,github,vscode,react,tailwind&theme=dark&perline=12)
+<a name="noop"><img src="https://skillicons.dev/icons?i=python,pytorch,typescript,javascript,cpp,nextjs,fastapi,git,github,vscode,react,tailwind&theme=dark&perline=12" alt="skills" /></a>
 
-![License](https://img.shields.io/badge/All%20Projects-All%20Rights%20Reserved-DC2626?style=for-the-badge&labelColor=020420)
+<a name="noop"><img src="https://img.shields.io/badge/All%20Projects-All%20Rights%20Reserved-DC2626?style=for-the-badge&labelColor=020420" alt="License" /></a>
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:8a4dff&height=3)
+<a name="noop"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:8a4dff&height=3" alt="divider" /></a>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
+## <a name="noop"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"></a> About Me
 
 ```python
 class HussainHaider:
@@ -49,21 +49,21 @@ class HussainHaider:
         return "Let's build something amazing with AI!"
 ```
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:8a4dff,100:e040fb&height=3)
+<a name="noop"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a4dff,100:e040fb&height=3" alt="divider" /></a>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Currently Building
+## <a name="noop"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"></a> Currently Building
 
 <div align="center">
 
-![Building](https://img.shields.io/badge/%F0%9F%94%A5%20ACTIVE-Building%20AI%20Projects-00ff88?style=for-the-badge&labelColor=0a2e1a)
-![Studying](https://img.shields.io/badge/%F0%9F%8E%93%20STUDYING-BS%20AI%20%40%20UMT%202024--2028-00e5ff?style=for-the-badge&labelColor=0a1e2e)
-![Open](https://img.shields.io/badge/%F0%9F%A4%9D%20OPEN-Internships%20%26%20Collab-8a4dff?style=for-the-badge&labelColor=150a2e)
+<a name="noop"><img src="https://img.shields.io/badge/%F0%9F%94%A5%20ACTIVE-Building%20AI%20Projects-00ff88?style=for-the-badge&labelColor=0a2e1a" alt="Building" /></a>
+<a name="noop"><img src="https://img.shields.io/badge/%F0%9F%8E%93%20STUDYING-BS%20AI%20%40%20UMT%202024--2028-00e5ff?style=for-the-badge&labelColor=0a1e2e" alt="Studying" /></a>
+<a name="noop"><img src="https://img.shields.io/badge/%F0%9F%A4%9D%20OPEN-Internships%20%26%20Collab-8a4dff?style=for-the-badge&labelColor=150a2e" alt="Open" /></a>
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:e040fb,100:00e5ff&height=3)
+<a name="noop"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:e040fb,100:00e5ff&height=3" alt="divider" /></a>
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"> Featured Projects
+## <a name="noop"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"></a> Featured Projects
 
 <div align="center">
 
@@ -80,9 +80,9 @@ class HussainHaider:
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:8a4dff&height=3)
+<a name="noop"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:8a4dff&height=3" alt="divider" /></a>
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZd176/giphy.gif" width="28"> Certifications & Achievements
+## <a name="noop"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZd176/giphy.gif" width="28"></a> Certifications & Achievements
 
 <div align="center">
 
@@ -96,73 +96,73 @@ class HussainHaider:
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:8a4dff,100:e040fb&height=3)
+<a name="noop"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a4dff,100:e040fb&height=3" alt="divider" /></a>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> GitHub Stats
+## <a name="noop"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"></a> GitHub Stats
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%8F%86%20ACHIEVEMENTS-e8b923?style=for-the-badge&labelColor=020420"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/%F0%9F%93%8A%20GITHUB%20STATS-00e5ff?style=for-the-badge&labelColor=020420"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/%F0%9F%93%88%20ACTIVITY%20GRAPH-8a4dff?style=for-the-badge&labelColor=020420"/>
+<a name="noop"><img src="https://img.shields.io/badge/%F0%9F%8F%86%20ACHIEVEMENTS-e8b923?style=for-the-badge&labelColor=020420"/></a>&nbsp;&nbsp;<a name="noop"><img src="https://img.shields.io/badge/%F0%9F%93%8A%20GITHUB%20STATS-00e5ff?style=for-the-badge&labelColor=020420"/></a>&nbsp;&nbsp;<a name="noop"><img src="https://img.shields.io/badge/%F0%9F%93%88%20ACTIVITY%20GRAPH-8a4dff?style=for-the-badge&labelColor=020420"/></a>
 
 <br/><br/>
 
-![trophies](https://github-trophies.vercel.app/?username=HussainHaider-005&theme=radical&no-frame=false&margin-w=6&row=1&column=7)
+<a name="noop"><img src="https://github-trophies.vercel.app/?username=HussainHaider-005&theme=radical&no-frame=false&margin-w=6&row=1&column=7" alt="trophies" /></a>
 
 <br/>
 
 <!-- Custom static dashboard: always renders, does not depend on the free github-readme-stats demo server -->
-![stats-panel](stats-panel.svg)
+<a name="noop"><img src="stats-panel.svg" alt="stats-panel" /></a>
 
 <br/>
 
-![Projects](https://img.shields.io/badge/LIVE%20PROJECTS-7%2B-e040fb?style=for-the-badge&labelColor=020420)
-![Languages](https://img.shields.io/badge/TOP%20LANGUAGES-Python%20%C2%B7%20TS%20%C2%B7%20JS%20%C2%B7%20C%2B%2B-00e5ff?style=for-the-badge&labelColor=020420)
-![Education](https://img.shields.io/badge/EDUCATION-BS%20AI%20%40%20UMT-8a4dff?style=for-the-badge&labelColor=020420)
-![Open](https://img.shields.io/badge/OPEN%20TO%20WORK-Internships%20%26%20Collab-00ff88?style=for-the-badge&labelColor=020420)
+<a name="noop"><img src="https://img.shields.io/badge/LIVE%20PROJECTS-7%2B-e040fb?style=for-the-badge&labelColor=020420" alt="Projects" /></a>
+<a name="noop"><img src="https://img.shields.io/badge/TOP%20LANGUAGES-Python%20%C2%B7%20TS%20%C2%B7%20JS%20%C2%B7%20C%2B%2B-00e5ff?style=for-the-badge&labelColor=020420" alt="Languages" /></a>
+<a name="noop"><img src="https://img.shields.io/badge/EDUCATION-BS%20AI%20%40%20UMT-8a4dff?style=for-the-badge&labelColor=020420" alt="Education" /></a>
+<a name="noop"><img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Internships%20%26%20Collab-00ff88?style=for-the-badge&labelColor=020420" alt="Open" /></a>
 
 <br/>
 
-![graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=HussainHaider-005&bg_color=0d1117&color=00e5ff&line=8a4dff&area=true&area_color=8a4dff30&hide_border=true&radius=10&custom_title=Hussain%20Haider%20Contribution%20Graph)
+<a name="noop"><img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=HussainHaider-005&bg_color=0d1117&color=00e5ff&line=8a4dff&area=true&area_color=8a4dff30&hide_border=true&radius=10&custom_title=Hussain%20Haider%20Contribution%20Graph" alt="graph" /></a>
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:e040fb,100:00e5ff&height=3)
+<a name="noop"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:e040fb,100:00e5ff&height=3" alt="divider" /></a>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Contribution Snake
+## <a name="noop"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"></a> Contribution Snake
 
-![snake](https://raw.githubusercontent.com/HussainHaider-005/HussainHaider-005/output/github-contribution-grid-snake-dark.svg)
+<a name="noop"><img src="https://raw.githubusercontent.com/HussainHaider-005/HussainHaider-005/output/github-contribution-grid-snake-dark.svg" alt="snake" /></a>
 
 ---
 
 ## 🌆 3D Contribution City
 
-![3D rainbow](profile-3d-contrib/profile-night-rainbow.svg)
+<a name="noop"><img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D rainbow" /></a>
 
-![3D animated](profile-3d-contrib/profile-south-season-animate.svg)
+<a name="noop"><img src="profile-3d-contrib/profile-south-season-animate.svg" alt="3D animated" /></a>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:8a4dff&height=3)
+<a name="noop"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:8a4dff&height=3" alt="divider" /></a>
 
-## <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="28"> Dev Joke of the Day
-
-<div align="center">
-
-<img src="joke-panel.svg" width="640" alt="Dev Joke of the Day" />
-
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:8a4dff,100:e040fb&height=3)
-
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28"> Quote of the Day
+## <a name="noop"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="28"></a> Dev Joke of the Day
 
 <div align="center">
 
-<img src="quote-panel.svg" width="640" alt="Quote of the Day" />
+<a name="noop"><img src="joke-panel.svg" width="640" alt="Dev Joke of the Day" /></a>
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:e040fb,100:00e5ff&height=3)
+<a name="noop"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a4dff,100:e040fb&height=3" alt="divider" /></a>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> License & Usage
+## <a name="noop"><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28"></a> Quote of the Day
+
+<div align="center">
+
+<a name="noop"><img src="quote-panel.svg" width="640" alt="Quote of the Day" /></a>
+
+</div>
+
+<a name="noop"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:e040fb,100:00e5ff&height=3" alt="divider" /></a>
+
+## <a name="noop"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a> License & Usage
 
 <div align="center">
 
@@ -180,28 +180,28 @@ If you are interested in using any part of this work, please contact directly fo
 
 <div align="center">
 
-🔗 **GitHub:** [github.com/HussainHaider-005](https://github.com/HussainHaider-005) &nbsp;&nbsp;|&nbsp;&nbsp; 📧 **Email:** [hussainhaider0204@gmail.com](mailto:hussainhaider0204@gmail.com)
+🔗 **GitHub:** github.com/HussainHaider-005 &nbsp;&nbsp;|&nbsp;&nbsp; 📧 **Email:** [hussainhaider0204@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=hussainhaider0204@gmail.com&su=Hello%20Hussain)
 
 💼 **LinkedIn:** [linkedin.com/in/hussain-haider-012111301](https://www.linkedin.com/in/hussain-haider-012111301)
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:8a4dff&height=3)
+<a name="noop"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:8a4dff&height=3" alt="divider" /></a>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Connect
+## <a name="noop"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a> Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-hussainhaider0204%40gmail.com-e040fb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020420)](mailto:hussainhaider0204@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hussainhaider0204%40gmail.com-e040fb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020420)](https://mail.google.com/mail/?view=cm&fs=1&to=hussainhaider0204@gmail.com&su=Hello%20Hussain)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hussain%20Haider-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020420)](https://www.linkedin.com/in/hussain-haider-012111301)
-[![GitHub](https://img.shields.io/badge/GitHub-HussainHaider--005-white?style=for-the-badge&logo=github&logoColor=black&labelColor=020420)](https://github.com/HussainHaider-005)
+<a name="noop"><img src="https://img.shields.io/badge/GitHub-HussainHaider--005-white?style=for-the-badge&logo=github&logoColor=black&labelColor=020420" alt="GitHub" /></a>
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=2500&color=E040FB&background=020420FF&center=true&vCenter=true&width=900&height=52&lines=%22Ship+fast.+Learn+faster.+Build+AI+that+matters.%22;%22The+best+way+to+predict+the+future+is+to+build+it.%22;%22Every+expert+was+once+a+beginner.+Keep+building.%22;%22Code+today.+Change+tomorrow.%22;%22Data+becomes+wisdom+only+when+you+build+with+it.%22)
+<a name="noop"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=2500&color=E040FB&background=020420FF&center=true&vCenter=true&width=900&height=52&lines=%22Ship+fast.+Learn+faster.+Build+AI+that+matters.%22;%22The+best+way+to+predict+the+future+is+to+build+it.%22;%22Every+expert+was+once+a+beginner.+Keep+building.%22;%22Code+today.+Change+tomorrow.%22;%22Data+becomes+wisdom+only+when+you+build+with+it.%22" alt="Typing SVG" /></a>
 
 </div>
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0:e040fb,35:5b3cc4,70:113364,100:020420&height=120&section=footer&text=Lets%20Build%20AI%20Together&fontSize=26&fontColor=ffffff&fontAlignY=55)
+<a name="noop"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:e040fb,35:5b3cc4,70:113364,100:020420&height=120&section=footer&text=Lets%20Build%20AI%20Together&fontSize=26&fontColor=ffffff&fontAlignY=55" alt="footer" /></a>
