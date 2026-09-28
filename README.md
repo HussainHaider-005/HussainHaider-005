@@ -1,10 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:020420,30:113364,62:5b3cc4,100:00e5ff&height=190&section=header&text=Hussain%20Haider&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=AI%20Developer%20%C2%B7%20ML%20Engineer%20%C2%B7%20Builder%20%2B%20Deployer&descAlignY=66&descSize=20&animation=fadeIn)
 ![bar](https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:8a4dff,100:e040fb&height=6)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00E5FF&background=020420FF&center=true&vCenter=true&width=900&height=56&lines=AI+Developer+%7C+ML+Engineer+%7C+Builder;PyTorch+%7C+Next.js+%7C+Claude+API;7%2B+Live+AI%2FWeb+Projects;Deep+Learning+%7C+Computer+Vision+%7C+NLP;BS+Artificial+Intelligence+%40+UMT+Lahore;Open+to+Internships+%26+Collaborations)](https://github.com/HussainHaider-005)
-<img src="avatar.jpg" width="38%" alt="Hussain Haider" /><img src="info-panel.svg" width="61%" alt="Info Panel" />
-![bar](https://capsule-render.vercel.app/api?type=rect&color=0:e040fb,50:8a4dff,100:00e5ff&height=3)
 
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=AI+Developer+%7C+ML+Engineer+%7C+Builder;PyTorch+%7C+Next.js+%7C+Claude+API;7%2B+Live+AI%2FWeb+Projects;Deep+Learning+%7C+Computer+Vision+%7C+NLP;BS+Artificial+Intelligence+%40+UMT+Lahore;Open+to+Internships+%26+Collaborations)](https://github.com/HussainHaider-005)
+
+<img src="avatar.jpg" width="38%" alt="Hussain Haider" /><img src="info-panel.svg" width="61%" alt="Info Panel" />
+![bar](https://capsule-render.vercel.app/api?type=rect&color=0:e040fb,50:8a4dff,100:00e5ff&height=3)
 
 [![linkedin](https://img.shields.io/badge/LINKEDIN-Hussain%20Haider-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020420)](https://www.linkedin.com/in/hussainhaider-012111301)
 [![email](https://img.shields.io/badge/EMAIL%20ME-8a4dff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020420)](mailto:hussainhaider0204@gmail.com)
@@ -184,7 +186,7 @@ If you are interested in using any part of this work, please contact directly fo
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=2500&color=E040FB&background=020420FF&center=true&vCenter=true&width=900&height=52&lines=%22Ship+fast.+Learn+faster.+Build+AI+that+matters.%22;%22The+best+way+to+predict+the+future+is+to+build+it.%22;%22Every+expert+was+once+a+beginner.+Keep+building.%22;%22Code+today.+Change+tomorrow.%22;%22Data+becomes+wisdom+only+when+you+build+with+it.%22)](https://github.com/HussainHaider-005)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2500&color=8a4dff&center=true&vCenter=true&width=650&lines=%22Ship+fast.+Learn+faster.+Build+AI+that+matters.%22;%22The+best+way+to+predict+the+future+is+to+build+it.%22;%22Every+expert+was+once+a+beginner.+Keep+building.%22;%22Code+today.+Change+tomorrow.%22;%22Data+becomes+wisdom+only+when+you+build+with+it.%22)](https://github.com/HussainHaider-005)
 
 </div>
 
