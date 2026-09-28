@@ -1,8 +1,22 @@
-<img src="header-banner.svg" width="100%" alt="Hussain Haider" />
-![bar](https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:8a4dff,100:e040fb&height=6)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00E5FF&background=020420FF&center=true&vCenter=true&width=900&height=56&lines=AI+Developer+%7C+ML+Engineer+%7C+Builder;PyTorch+%7C+Next.js+%7C+Claude+API;7%2B+Live+AI%2FWeb+Projects;Deep+Learning+%7C+Computer+Vision+%7C+NLP;BS+Artificial+Intelligence+%40+UMT+Lahore;Open+to+Internships+%26+Collaborations)
-<img src="avatar.jpg" width="38%" alt="Hussain Haider" /><img src="info-panel.svg" width="61%" alt="Info Panel" />
-![bar](https://capsule-render.vercel.app/api?type=rect&color=0:e040fb,50:8a4dff,100:00e5ff&height=3)
+<p align="center">
+  <img src="header-banner.svg" width="100%" alt="Hussain Haider" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:8a4dff,100:e040fb&height=6" width="100%" alt="bar" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00E5FF&background=020420FF&center=true&vCenter=true&width=900&height=56&lines=AI+Developer+%7C+ML+Engineer+%7C+Builder;PyTorch+%7C+Next.js+%7C+Claude+API;7%2B+Live+AI%2FWeb+Projects;Deep+Learning+%7C+Computer+Vision+%7C+NLP;BS+Artificial+Intelligence+%40+UMT+Lahore;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="avatar.jpg" width="38%" alt="Hussain Haider" /><img src="info-panel.svg" width="61%" alt="Info Panel" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e040fb,50:8a4dff,100:00e5ff&height=3" width="100%" alt="bar" />
+</p>
 
 <div align="center">
 
