@@ -180,7 +180,7 @@ If you are interested in using any part of this work, please contact directly fo
 
 <div align="center">
 
-🔗 **GitHub:** github.com/HussainHaider-005 &nbsp;&nbsp;|&nbsp;&nbsp; 📧 **Email:** [hussainhaider0204@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=hussainhaider0204@gmail.com&su=Hello%20Hussain)
+🔗 **GitHub:** [github.com/HussainHaider-005](https://github.com/HussainHaider-005) &nbsp;&nbsp;|&nbsp;&nbsp; 📧 **Email:** [hussainhaider0204@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=hussainhaider0204@gmail.com&su=Hello%20Hussain)
 
 💼 **LinkedIn:** [linkedin.com/in/hussain-haider-012111301](https://www.linkedin.com/in/hussain-haider-012111301)
 
@@ -194,7 +194,7 @@ If you are interested in using any part of this work, please contact directly fo
 
 [![Email](https://img.shields.io/badge/Email-hussainhaider0204%40gmail.com-e040fb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020420)](https://mail.google.com/mail/?view=cm&fs=1&to=hussainhaider0204@gmail.com&su=Hello%20Hussain)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hussain%20Haider-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020420)](https://www.linkedin.com/in/hussain-haider-012111301)
-<a name="noop"><img src="https://img.shields.io/badge/GitHub-HussainHaider--005-white?style=for-the-badge&logo=github&logoColor=black&labelColor=020420" alt="GitHub" /></a>
+<a href="https://github.com/HussainHaider-005"><img src="https://img.shields.io/badge/GitHub-HussainHaider--005-white?style=for-the-badge&logo=github&logoColor=black&labelColor=020420" alt="GitHub" /></a>
 
 <br/>
 
